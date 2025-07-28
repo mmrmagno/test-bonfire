@@ -1,8 +1,9 @@
 {
-  "timestamp": "2025-07-28T17:38:45.400Z",
+  "timestamp": "2025-07-28T17:39:52.032Z",
   "mode": "manual",
-  "filesCount": 1,
+  "filesCount": 2,
   "files": [
-    "DS30000.sl2"
+    "DS30000.sl2",
+    "DS30000.sl2.backup.1753724364257"
   ]
 }
